@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🔭 I'm Rodlen A. Basilio and Currently working on a school research project where i work as a visiting lecturer of Zamboanga Peninsula Polytechnic State University, Zamboanga City Philippines.
+### 🔭 I'm Rodlen A. Basilio and Currently working on a school research project where i work as a visiting lecturer of Zamboanga Peninsula Polytechnic State University, Zamboanga City Philippines.<br><br>
 
-### 💻 One of my success project is:
-CHAVALINGO: A Mobile Application, where it help the students who take a MTB-MLE, and residence of Zamboanga City to speak and understand the Chavacano dialect.
-    
-👩‍💻 And I enjoy learning and developing new technology especially in the fields of AI/ML, languages, object detection. And what I learn is also being shared to my students.
+#### 💻 One of my success project is:      <br>CHAVALINGO: A Mobile Application, where it help the students who take a MTB-MLE, and residence of Zamboanga City to speak and understand the Chavacano dialect.<br> (https://apkpure.com/chavalingo-a-mobile-application-for-learning-to-speak-chavacano-of-zamboanga-city/com.example.chavalingo)
 
-💻 Also, I'm a Web Developer (HTML, CSS, JavaScript, PHP), Android Developer (Java and Python), Flutter Developer, and Researcher of languages based on Object Detection.
 
-📫 How to reach me: 
-    Gmail: rbasilio@zppsu.edu.ph
+<br><br>👩‍💻 And I enjoy learning and developing new technology especially in the fields of AI/ML, languages, object detection. And what I learn is also being shared to my students.
+<br><br><br>
+💻 Also, I'm a Web Developer (HTML, CSS, JavaScript, and PHP), Flutter Developer, and Researcher of languages based on Object Detection projects.
+<br><br><br>
+📫 How to reach me:<br> 
+    Gmail: rbasilio@zppsu.edu.ph or rbbasilio10@gmail.com <br>
     linkedin: https://www.linkedin.com/in/rodlenbasilio/
     
