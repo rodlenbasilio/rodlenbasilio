@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **rodlenbasilio/rodlenbasilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 
 #### 🔭 I'm Rodlen A. Basilio and Currently working on a school research project where i work as a visiting lecturer of Zamboanga Peninsula Polytechnic State University, Zamboanga City Philippines.
 
-👩‍💻 I enjoy learning new technology especially in AI/ML, Web and Mobile Development, object detection and Flutter Development. And what I learn is also being shared to my students.
+##### 💻 One of my success project is:
+    - **CHAVALINGO:** A Mobile Application, where it help the students who take a MTB-MLE, and residence of Zamboanga City to speak and understand the Chavacano dialect.
+    
+👩‍💻 And I enjoy learning and developing new technology especially in the fields of AI/ML, languages, object detection. And what I learn is also being shared to my students.
+
+💻 Also, I'm a Web Developer (HTML, CSS, JavaScript, PHP), Android Developer (Java and Python), Flutter Developer, and Researcher of languages based on Object Detection.
 
 📫 How to reach me: 
     Gmail: rbasilio@zppsu.edu.ph
