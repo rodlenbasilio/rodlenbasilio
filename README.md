@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 I'm Rodlen A. Basilio and Currently working on a school research project where i work as a visiting lecturer of a university in Zamboanga City.
+# 🔭 I'm Rodlen A. Basilio and Currently working on a school research project where i work as a visiting lecturer of a university in Zamboanga City.
 
 👩‍💻 I enjoy learning new technology especially in AI/ML, Web and Mobile Development, object detection and Flutter Development. And what I learn is also being shared to my students.
 
