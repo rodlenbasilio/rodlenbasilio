@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About Me....
+
+🔭 I'm Rodlen A. Basilio and Currently working on a school research project where i work as a visiting lecturer of a university in Zamboanga City.
+
+👩‍💻 I enjoy learning new technology especially in AI/ML, Web and Mobile Development, object detection and Flutter Development. And what I learn is also being shared to my students.
+
+📫 How to reach me: 
+    Gmail: rbasilio@zppsu.edu.ph
+    linkedin: https://www.linkedin.com/in/rodlenbasilio/
+    
