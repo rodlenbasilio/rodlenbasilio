@@ -22,9 +22,15 @@ Here are some ideas to get you started:
 
 <br><br>👩‍💻 And I enjoy learning and developing new technology especially in the fields of AI/ML, languages, object detection. And what I learn is also being shared to my students.
 <br><br><br>
-💻 Also, I'm a self taught Web Developer (HTML, CSS, JavaScript, and PHP), self taught Flutter Developer, and a Researcher of languages based on Object Detection projects.
+💻 Also, I'm a self taught Web Developer, self taught Flutter Developer, and a Researcher of languages based on Object Detection projects.
 <br><br><br>
 📫 How to reach me:<br> 
     Gmail: rbasilio@zppsu.edu.ph or rbbasilio10@gmail.com <br>
     linkedin: https://www.linkedin.com/in/rodlenbasilio/
     
+ <br>
+ ![](https://komarev.com/ghpvc/?username=rodlenbasilio&style=flat-square)
+<br><br><br>
+Languages and Tools: <br>
+
+
