@@ -7,25 +7,23 @@
 
 ## 🔭 I'm Rodlen A. Basilio
 
-### 🏢 Currently working on a school research project where i work as a visiting lecturer of Zamboanga Peninsula Polytechnic State University, Zamboanga City Philippines.<br><br>
+### 🏢 Currently working on a school research project where I work as a visiting lecturer of Zamboanga Peninsula Polytechnic State University, Zamboanga City Philippines.
 
-### 👩‍💼 I'm also the Co-Founder and COO, of ElitInno based in Zamboanga City Philippine. Where the company mission is - To empower individuals and revolutionized on innovative solution.<br><br>
+### 👩‍💼 I'm also the Co-Founder and COO, of ElitInno based in Zamboanga City Philippine. Where the company mission is - To empower individuals and revolutionized on innovative solution.
 
 ### 💻 One of my success project is:      <br>CHAVALINGO: A Mobile Application, where it help the students who take a MTB-MLE, and residence of Zamboanga City to speak and understand the Chavacano dialect.<br> (https://apkpure.com/chavalingo-a-mobile-application-for-learning-to-speak-chavacano-of-zamboanga-city/com.example.chavalingo)
 
 
 <br>👩‍💻 And I enjoy learning and developing new technology especially in the fields of AI/ML, languages, object detection. And what I learn is also being shared to my students.
 
-
-<br>
-💻 Also, I'm a self taught Web Developer, self taught UI/UX Designer, self taught Flutter Developer, self taught arduino projects, self taught businesswoman and a Researcher of languages based on Object Detection projects.
+<br> 💻 Also, I'm a self taught Web and Android Developer, self taught UI/UX Designer, self taught Flutter Developer, self taught Arduino Developer, self taught AI/ML project based, self taught businesswoman and a Researcher NLP and CNN projects.
 
 
 <br><br><br>
 📫 How to reach me:<br> 
     Gmail: rbasilio@zppsu.edu.ph or rbbasilio10@gmail.com <br>
     linkedin: https://www.linkedin.com/in/rodlenbasilio/
-    <br>
+    <br><br>
 
 ## :hammer_and_wrench: Languages and Tools that i Teach :
 <div>
