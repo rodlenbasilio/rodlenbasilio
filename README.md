@@ -5,7 +5,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=rodlenbasilio&style=flat-square&color=blue" alt=""/>
 
-### 🔭 I'm Rodlen A. Basilio and Currently working on a school research project where i work as a visiting lecturer of Zamboanga Peninsula Polytechnic State University, Zamboanga City Philippines.<br><br>
+## 🔭 I'm Rodlen A. Basilio
+
+#### 🏢 Currently working on a school research project where i work as a visiting lecturer of Zamboanga Peninsula Polytechnic State University, Zamboanga City Philippines.<br><br>
+
+#### 👩‍💼 I'm also the Co-Founder and COO, of ElitInno based in Zamboanga City Philippine. Where the company mission is - To empower individuals and revolutionized on innovative solution.
 
 #### 💻 One of my success project is:      <br>CHAVALINGO: A Mobile Application, where it help the students who take a MTB-MLE, and residence of Zamboanga City to speak and understand the Chavacano dialect.<br> (https://apkpure.com/chavalingo-a-mobile-application-for-learning-to-speak-chavacano-of-zamboanga-city/com.example.chavalingo)
 
@@ -14,7 +18,7 @@
 
 
 <br>
-💻 Also, I'm a self taught Web Developer, self taught UI/UX Designer, self taught Flutter Developer, and a Researcher of languages based on Object Detection projects.
+💻 Also, I'm a self taught Web Developer, self taught UI/UX Designer, self taught Flutter Developer, self taught arduino projects, self taught businesswoman and a Researcher of languages based on Object Detection projects.
 
 
 <br><br><br>
