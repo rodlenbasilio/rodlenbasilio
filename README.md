@@ -3,7 +3,7 @@
 <br>
 
 
-<img src="https://komarev.com/ghpvc/?username=rodlenbasilio&style=flat-square&color=blue" alt=""/>
+
 
 ## 🔭 I'm Rodlen A. Basilio
 
