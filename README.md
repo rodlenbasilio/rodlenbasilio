@@ -2,7 +2,7 @@
 
 🔭 **I'm Rodlen A. Basilio**, work as Visiting Lecturer and at the same time taking my Master Degree in MIT and also, doing Freelancing and Researching on a free time.
 
-◼ 💻 **CHAVALINGO**: is one of my successful project in college. <br>
+◼ 💻 **CHAVALINGO**: One of my successful project in college. <br>
 CHAVALINGO is a mobile application, where it helps the students in kinder to elementary that has MTB-MLE subjects in the residency of Zamboanga City. Also you can able to speak and understand the Chavacano dialect. <br> 
 **Download Here:** https://apkpure.com/chavalingo-a-mobile-application-for-learning-to-speak-chavacano-of-zamboanga-city/com.example.chavalingo. <br>
 ◼ 🔭 I'm Currently working on something cool projects right now! <br>
